@@ -5,5 +5,9 @@ function controlAcces() {
 function iniciarServidor() {
     console.log("Servidor iniciat correctament.");
 }
+function alarmaTemperatura() {
+    console.log("Alarma de temperatura de la sala de servidors activada.");
+}
 
 iniciarServidor();
+
